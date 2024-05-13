@@ -161,4 +161,3 @@ export const SOCIALS = {
   ]
 }
 
-const url = 'https://www.youtube.com/watch?v=GF94eRpbI8k'

@@ -1,7 +1,7 @@
 
 const Header = () => {
   return (
-    <header className="flexBetween px-6 lg:px-20 3xl:px-0 py-3 w-full bg-primary fixed top-0  z-30 ">
+    <header className="flexBetween px-6 lg:px-20  py-3 w-full bg-primary fixed top-0  z-30 ">
       <a href="/" className="bold-24 text-secondary font-ace">
         NIKE
       </a>
